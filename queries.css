@@ -15,3 +15,21 @@
     font-size: 20%;
   }
 }
+@media (max-width: 17em) {
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 4.8rem;
+    background-image: linear-gradient(
+        rgba(243, 243, 243, 0.3),
+        rgba(243, 243, 243, 0.3)
+      ),
+      url(background2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    /* background-position: center; */
+  }
+}
