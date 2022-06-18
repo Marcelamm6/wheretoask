@@ -4,3 +4,14 @@
     font-size: 50%;
   }
 }
+@media (max-width: 42em) {
+  html {
+    font-size: 30%;
+    /* font-size: 40%; */
+  }
+}
+@media (max-width: 25em) {
+  html {
+    font-size: 20%;
+  }
+}
