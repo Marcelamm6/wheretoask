@@ -11,9 +11,6 @@
   }
 }
 @media (max-width: 27em) {
-  html {
-    font-size: 20%;
-  }
   header {
     background-image: linear-gradient(
         rgba(243, 243, 243, 0.3),
