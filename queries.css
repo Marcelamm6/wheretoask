@@ -15,10 +15,10 @@
         rgba(243, 243, 243, 0.3),
         rgba(243, 243, 243, 0.3)
       ),
-      url(background2.jpg);
+      url(background1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-size: contain; */
-    /* background-position: center; */
+    background-size: cover;
+    background-position: center;
   }
 }
