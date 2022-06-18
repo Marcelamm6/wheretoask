@@ -6,8 +6,7 @@
 }
 @media (max-width: 42em) {
   html {
-    font-size: 30%;
-    /* font-size: 40%; */
+    font-size: 40%;
   }
 }
 @media (max-width: 27em) {
