@@ -10,6 +10,6 @@ const comidas = ["Pizza", "Lasanha", "Coxinha", "Hamburguer"];
 btn.addEventListener("click", function (e) {
   e.preventDefault();
   let comidasIndex = Math.trunc(Math.random() * comidas.length);
-  console.log(comidasIndex);
+  // console.log(comidasIndex);
   comer.innerHTML = comidas[comidasIndex];
 });
