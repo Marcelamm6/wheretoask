@@ -3,7 +3,7 @@
 let comer = document.querySelector(".comida");
 const btn = document.querySelector(".btn");
 
-const comidas = ["Pizza", "Lasanha", "Coxinha", "Hamburguer"];
+const comidas = ["Pizza", "Lasanha", "Coxinha", "Hamburguer", "Calzone"];
 
 //  = Math.trunc(Math.random() * comidas.length);
 
